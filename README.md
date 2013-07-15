@@ -26,5 +26,6 @@ Parts List:
 - 5 volt wall power supply (has a type N connector)
       https://www.sparkfun.com/products/8269
 - Wire
+- Perfboard
 - Solder
 
